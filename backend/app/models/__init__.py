@@ -1,4 +1,4 @@
-#Здесь происходит инициализация моделей
+#Здесь происходит инициализация моделей. Была написана третьей
 from .category import Category
 from .product import Product
 
